@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Stanford '19. [Symbolic Systems](https://symsys.stanford.edu/ssp_description) major. Proud leader in [Girls Teaching Girls to Code.](http://www.girlsteachinggirlstocode.org)
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+See my "Hello, World!" blog post to learn about what's important to me!
 
-### Contact me
+### Contact Me
 
-[email@domain.com](mailto:email@domain.com)
+[cho19@stanford.edu](mailto:cho19@stanford.edu)
