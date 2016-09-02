@@ -3,7 +3,7 @@ layout: post
 title: Hello, World!
 ---
 
-Greetings!  My name's Caroline, and I'm a member of the Stanford class of 2019 planning to study [Symbolic Systems](https://symsys.stanford.edu/ssp_description) with a concentration in Artificial Intelligence.  A few important things you should know about me –
+Greetings!  My name's Caroline, and I'm a member of the Stanford class of 2019 planning to study [Symbolic Systems](https://symsys.stanford.edu/ssp_description) with a concentration in Artificial Intelligence.  A few important things you should know about me:
 
 **1. I care deeply about making CS accessible to people from all backgrounds.**  My first experience with computer science was attending the first Code Camp run by [Girls Teaching Girls To Code](http://www.girlsteachinggirlstocode.org) as a sophomore in high school, and I had a blast!  Quite frankly, had I not participated in the program, I might not have ever realized how easy to learn or how fun coding is.
 
