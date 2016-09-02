@@ -8,7 +8,7 @@ Stanford '19. [Symbolic Systems](https://symsys.stanford.edu/ssp_description) ma
 
 ### More Information
 
-See my "Hello, World!" blog post to learn about what's important to me!
+See my ["Hello, World!" blog post](https://carolineh101.github.io/blog/Hello-World/) to learn about what's important to me!
 
 ### Contact Me
 
