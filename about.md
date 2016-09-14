@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Stanford '19. [Symbolic Systems](https://symsys.stanford.edu/ssp_description) major planning concentration in Artificial Intelligence. Proud leader in [Girls Teaching Girls to Code.](http://www.girlsteachinggirlstocode.org)
+Stanford '19. [Symbolic Systems](https://symsys.stanford.edu/ssp_description) major planning concentration in Artificial Intelligence. Proud leader in [Girls Teaching Girls to Code](http://www.girlsteachinggirlstocode.org). Passionate hackathon hacker.
 
 ### More Information
 
