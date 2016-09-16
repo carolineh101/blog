@@ -8,4 +8,4 @@ Date: 9/1/16
 
 Author: Caroline Ho
 
-Link: [carolineho.me/blog](carolineho.me/blog)
+Link: http://carolineho.me/blog
